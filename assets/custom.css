@@ -1,0 +1,14 @@
+.bootstrap-datetimepicker-widget
+{
+  padding: 0 20px;
+}
+
+body.printContract
+{
+  color: #000;
+}
+
+body.printContract p
+{
+  margin-bottom: 0.8rem;
+}

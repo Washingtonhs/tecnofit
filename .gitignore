@@ -1,0 +1,17 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+node_modules/
+package-lock.json
+.DS_Store
+.env
+.vscode
+*.zip
+*.sql
+*.rar
+*.png
+*.jpg
+*.jpeg
+*.gif
+writable/cache/*
+writable/debugbar/*
+writable/logs/*
+writable/session/*
